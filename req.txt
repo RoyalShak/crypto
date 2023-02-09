@@ -1,0 +1,7 @@
+requests
+requests.exceptions
+json
+datetime
+os
+smtplib
+email.message
